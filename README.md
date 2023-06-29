@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![](https://media.giphy.com/media/KsLnm50rkhA6A/giphy.gif)
 <!--
 **oodenough/oodenough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
